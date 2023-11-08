@@ -1,3 +1,3 @@
-# Markowitz_theory
+# Markowitz portfolio theory for Moscow Exchange shares
 
-Реализация портфельной теории Марковица для активов, доступных для неквалифицированного инвестора, на МосБиржи. Определение структуры двух портфелей: с максимальном коэф. Шарпа и минимальной волатильностью
+Realization of Markowitz portfolio theory for stocks available for unqualified investors on the Moscow Exchange. Determination of the structure of two portfolios: with maximum Sharpe ratio and minimum volatility
